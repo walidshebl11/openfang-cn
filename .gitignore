@@ -1,0 +1,53 @@
+# Build artifacts
+/target/
+*.exe
+*.dll
+*.so
+*.dylib
+*.exp
+*.lib
+*.pdb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.eggs/
+*.egg-info/
+*.egg
+
+# Rust
+**/*.rs.bk
+Cargo.lock
+
+# Tauri
+src-tauri/target/
+
+# Config (keep templates)
+.openfang/
+!*.toml.example
